@@ -1,1 +1,1 @@
-# kazgreka.gihub.io
+# kazgreka.github.io
